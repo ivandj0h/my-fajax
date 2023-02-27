@@ -12,7 +12,7 @@ This is a simple project to demonstrate how to Upload file using Fiber & Ajax in
 git clone https://github.com/ivandi1980/my-fajax.git
 ```
 
-<b>Manual install</b>
+<b>Manual install Packages</b>
 
 ```bash
 go get github.com/gofiber/fiber/v2
